@@ -13,7 +13,7 @@ use SoapClient;
 
 /**
  * Extends Yii2 Compnent to connect to the EziDebit v3.5 Web Services API
-
+ */
 class EziDebitApi extends Component
 {
 	public $digitalKey = 'INSERT YOUR DIGITAL KEY HERE';
