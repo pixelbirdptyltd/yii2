@@ -21,7 +21,7 @@ class EziDebitApi extends Component
 	public $nonPci = 'https://api.demo.ezidebit.com.au/v3-5/nonpci?singleWsdl'; // NON-PCI SANDBOX CHANGE IN PRODUCTION
 
 	/**
-	 * EZIDEBIT SCHEDULED PAYMENTS
+	 * EZIDEBIT INSTANT PAYMENTS
 	 * 4.3 Web Services
 	 */
 
